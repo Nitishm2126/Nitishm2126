@@ -127,18 +127,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nitishm2126&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f1a&title_color=8AB4F8&icon_color=8AB4F8&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Nitishm2126&theme=dark&hide_border=true&background=0f0f1a&ring=8AB4F8&fire=8AB4F8&currStreakLabel=8AB4F8" width="48%" alt="GitHub Streak" />
+<img src="https://github-stats-extended.vercel.app/api?username=Nitishm2126&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f1a&title_color=8AB4F8&icon_color=8AB4F8&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats-denvercoder1.vercel.app/?user=Nitishm2126&theme=dark&hide_border=true&background=0f0f1a&ring=8AB4F8&fire=8AB4F8&currStreakLabel=8AB4F8" width="48%" alt="GitHub Streak" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishm2126&layout=compact&theme=dark&hide_border=true&bg_color=0f0f1a&title_color=8AB4F8&text_color=c9d1d9" width="48%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nitishm2126&layout=compact&theme=dark&hide_border=true&bg_color=0f0f1a&title_color=8AB4F8&text_color=c9d1d9" width="48%" alt="Top Languages" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitishm2126&theme=react-dark&bg_color=0f0f1a&hide_border=true&color=8AB4F8&line=8AB4F8&point=c9d1d9" width="98%" alt="Contribution Graph" />
+<img src="https://github-activity-graph.vercel.app/graph?username=Nitishm2126&theme=react-dark&bg_color=0f0f1a&hide_border=true&color=8AB4F8&line=8AB4F8&point=c9d1d9" width="98%" alt="Contribution Graph" />
 
 </div>
 
