@@ -7,7 +7,7 @@
 <h3>Full-Stack Developer · Web & App Developer · Tech Explorer</h3>
 
 <a href="https://github.com/Nitishm2126">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+useful+digital+experiences;Turning+ideas+into+real-world+applications;Learning+%E2%86%92+Building+%E2%86%92+Improving&font=Fira+Code&center=true&width=520&height=45&color=8AB4F8&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+useful+digital+experiences;Turning+ideas+into+real-world+applications;Learning+%E2%86%92+Building+%E2%86%92+Improving&font=Fira+Code&center=true&width=600&height=45&color=8AB4F8&vCenter=true&size=20&pause=1200" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
 <img src="https://img.shields.io/badge/HTML-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
 
 <br/>
 <br/>
@@ -70,6 +71,7 @@
 
 **Databases / Backend Services**
 <br/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 <img src="https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
 <img src="https://img.shields.io/badge/Google_Sheets-1a1a2e?style=flat-square&logo=googlesheets&logoColor=34A853" alt="Google Sheets" />
